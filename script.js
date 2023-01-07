@@ -323,8 +323,14 @@
 // console.log(5)
 // var a = 10
 // var b = 4
-// p ( a + b ) * 2       
+// p ( a + b ) * 2   
 
+
+// // function nameString(name){
+// 	var b == "Edabit"
+// 	var result == name + b
+//   	return result
+// // }
 
 
 
@@ -474,5 +480,172 @@
 // var age = "32"
 // console.log(typeof age);
 
+// let a = prompt("son kiriting")
+// for (let i = 0; i <= a; i++){
+//     if (i%2==0){
+//     console.log( i + "juft son");
+//     }else {
+//         console.log(i + "toq son");
+//     }
+// }
 
 
+// let a = +prompt("son kiriting")
+// let b = +prompt("son kiriting")
+// let c = prompt("son kiriting")
+
+// if (c == "+"){
+//     console.log(a+b);
+// }
+// else if (c == "-"){
+//     console.log(a-b);
+// }
+// else if (c == "*"){
+//     console.log(a*b);
+// }
+// else if (c == "/"){
+//     console.log(a/b);
+// }
+
+// let a = prompt ("rang kiriting")
+// if (a == "qizil"){
+//     console.log("to'xtang");
+// }
+// else if (a == "sariq"){
+//     console.log("tayyorlaning");
+// }
+// else if (a == "yashil"){
+//     console.log("yuring");
+// }
+// else {
+    
+//     console.log("bunday rang yoooq");
+// }
+
+
+
+
+
+
+// var a =prompt("a tomonini kiriting")
+// var b =prompt("b tomonini kiriting")
+// var c = a*b
+// console.log(c);
+
+
+
+// let a =prompt("a tomonini kiriting")
+// let b =prompt("b tomonini kiriting")
+// let c = a*b
+// console.log(c);
+
+
+// if else you tube da izlash va korish
+// java script info mashqlarni bajarish
+
+
+
+
+    // let name = "Xayrullo"
+
+    // let age = 19
+
+    // console.log("Mening ismim " + name+ " yoshim " + age + " da");
+
+// var integer = round (0.2314)
+
+// fill (0, 0 , 0);
+// textSize(100);
+// text(number , 100, 232);
+
+// text (integer, 150, 350);
+
+
+
+// var studentAge = 18;
+// var votingAge = 18;
+// if (studentAge >= votingAge){
+//     console.log("You can vote");
+// }else {
+//     console.log("come back later");
+// }
+
+
+// Uyga vazifa
+
+//1. function triArea(base, height) {
+// 	return (base*height)/2
+// }
+// 2.function addition(a, b) {
+// 	return (a+b)
+// }
+// 3/function addition(num) {
+// 	return (num+1)
+// }
+// // 4. function circuitPower(voltage, current) {
+// 	return (voltage* current)
+// }
+// 5.function nextEdge(side1, side2) {
+// 	return (side1+side2)-1
+// }
+// 6. function findPerimeter(length, width) {
+// 	return (length+width)*2
+// }
+// 7.function convert(minutes) {
+// 	return (minutes*60)
+// }
+// 8.function triArea(base, height) {
+// 	return (base*height)/2
+// }
+// 9.
+
+
+// 10.function howManySeconds(hours) {
+// 	return (hours *3600)
+// }
+// 11.function lessThanOrEqualToZero(num) {
+// 	if (num<=0){
+// 		return true
+// }
+// 	else{
+// 		return false
+// 	}
+// }
+
+// 12.function sumPolygon(n) {
+// 	return (n-2)*180
+// }
+// 17.function nameString(name){
+// 	var b == "Edabit"
+// 	var result == name + b
+//   	return result
+// }
+// 14.function animals(chickens, cows, pigs) {
+// 	return (chickens*2+cows*4+pigs*4)
+// }
+// 15.function isSeven(x) {
+// 	return x="7"?false:true:false;
+// }
+// 16.function and(a, b) {
+// 	return a && b
+// }
+// 17.function isSameNum(num1, num2) {
+// 	return num1 === num2 ? true : false
+// }
+// 18.function convert(hours, minutes) {
+// 	return (hours*3600+minutes*60)
+// }
+// 19.function calculator(str) {
+// 	return eval(str)
+// }
+
+
+
+// function salom (n){
+//     return Math.ceil(n, 9)
+// }
+// console.log(salom(15));
+
+
+// const name ="hello world guys children"
+// console.log(name.endsWidth("guys", 14));
