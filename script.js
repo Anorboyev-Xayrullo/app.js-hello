@@ -639,6 +639,13 @@
 // 	return eval(str)
 // }
 
+//  29.function makePair(num1, num2) {
+	// return ([num1,num2])
+// }
+//   function frames(minutes, fps) {
+// 	return (minutes*60*fps)
+// }
+
 
 
 // function salom (n){
@@ -649,3 +656,31 @@
 
 // const name ="hello world guys children"
 // console.log(name.endsWidth("guys", 14));
+
+// const startWith=(styr,letter){
+    // str [0] 
+// }
+
+// let world = "Hello world guys"
+// let num = 7.2
+// console.log(Math.floor(n));
+
+// console.log(Math.abs(-7.6));  minusni plusga yalantiradi
+
+// let name = "Tesla"
+
+// console.log(name.includes("s"));   sozni kiritamiz sozni ichida osha harf bolsa true  ko'rstadi. yo'q bolsa false ko'rstadi
+
+// let arr = [1,2,3,4]
+// console.log(Math.min(...arr));eng kichik raqamni ko'rsatdi
+
+
+// let arr = [1,2,3,4]
+// console.log(Math.max(...arr)); eng katta raqamni ko'rsatdi
+
+
+// let date = new Date()
+// console.log(date.getMonth()); qaysi oyda bolsak shuni qaytardi.
+// let date = new Date()
+// console.log(date.getDay()); kunni qaytaradi
+
